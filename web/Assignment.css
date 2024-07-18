@@ -1,0 +1,53 @@
+.a {
+
+    float: inline-start;
+
+    
+}
+
+.b {
+    float: inline-end;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.c {
+    float: inline-start;
+    padding-left: 20px;
+}
+
+.d {
+    float: right;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+.e{
+    float:left;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.f {
+    float: inline-end;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.g {
+    float: inline-start;
+    padding-left: 20px;
+}
+
+.h {
+    float: left;
+    padding-right: 20px;
+}
+
+.i {
+    float:inline-start;
+    padding-right: 100px;
+}
+.j {
+    float:inline-end;
+    padding-right: 50%;
+}
