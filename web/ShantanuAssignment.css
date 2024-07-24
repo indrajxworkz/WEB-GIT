@@ -1,0 +1,50 @@
+.image {
+    background-image: url("https://img.freepik.com/free-vector/halftone-background-with-circles_23-2148907689.jpg?size=626&ext=jpg&ga=GA1.1.2008272138.1721692800&semt=ais_user");
+}
+
+
+form{
+    padding-right: 20%;
+    width: 80%;
+}
+
+.container-fluid{
+    background-color:white;
+
+}
+
+.card-img-overlay{
+    margin-top: 13%;
+    color: black;
+    background-color: white;
+}
+
+footer{
+    background-color: whitesmoke;
+}
+
+*{
+    
+    box-sizing: border-box;
+}
+
+.footer-icons{
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.footer-icons a{
+    text-decoration: none;
+    padding:  10px;
+    background-color: blue;
+    color: black;
+    margin: 10px;
+    border-radius: 50%;
+}
+
+.para{
+    color: black;
+    margin-left: 48%;
+}
